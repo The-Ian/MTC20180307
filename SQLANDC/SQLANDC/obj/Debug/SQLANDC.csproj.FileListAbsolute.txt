@@ -1,0 +1,9 @@
+c:\users\cyberadmin\documents\visual studio 2017\Projects\SQLANDC\SQLANDC\bin\Debug\SQLANDC.exe.config
+c:\users\cyberadmin\documents\visual studio 2017\Projects\SQLANDC\SQLANDC\bin\Debug\SQLANDC.exe
+c:\users\cyberadmin\documents\visual studio 2017\Projects\SQLANDC\SQLANDC\bin\Debug\SQLANDC.pdb
+c:\users\cyberadmin\documents\visual studio 2017\Projects\SQLANDC\SQLANDC\obj\Debug\SQLANDC.csprojResolveAssemblyReference.cache
+c:\users\cyberadmin\documents\visual studio 2017\Projects\SQLANDC\SQLANDC\obj\Debug\SQLANDC.Properties.Resources.resources
+c:\users\cyberadmin\documents\visual studio 2017\Projects\SQLANDC\SQLANDC\obj\Debug\SQLANDC.csproj.GenerateResource.Cache
+c:\users\cyberadmin\documents\visual studio 2017\Projects\SQLANDC\SQLANDC\obj\Debug\SQLANDC.exe
+c:\users\cyberadmin\documents\visual studio 2017\Projects\SQLANDC\SQLANDC\obj\Debug\SQLANDC.pdb
+c:\users\cyberadmin\documents\visual studio 2017\Projects\SQLANDC\SQLANDC\obj\Debug\SQLANDC.vendorDataGrid.resources
